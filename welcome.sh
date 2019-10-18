@@ -1,6 +1,6 @@
 #!/bin/bash
 
-greeting="Welcome_srikanth"
+greeting="test"
 user=$(whoami)
 day=$(date +%A)
 
