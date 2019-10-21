@@ -1,6 +1,6 @@
 #!/bin/bash
 
-greeting="* * * T E S T I N G  __ EVERY      +++++     MINUTE* * * "
+greeting="* * * T E S T I N G  __ EVERY      +++++     MINUTE    1111111111111 * * * "
 user=$(whoami)
 day=$(date +%A)
 
