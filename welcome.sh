@@ -1,6 +1,6 @@
 #!/bin/bash
 
-greeting="Welcome _to_ JENKINS TEST "
+*greeting="Welcome _to_ JENKINS TEST "
 user=$(whoami)
 day=$(date +%A)
 
