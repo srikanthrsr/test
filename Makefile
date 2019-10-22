@@ -1,4 +1,4 @@
-all:./build/hai.o ./build/hai
+all:./build/hai ./build/hai
 ./build/hai.o:./source/hai.c
 	mkdir build
 	gcc -c -o ./build/hai.o ./source/hai.c
