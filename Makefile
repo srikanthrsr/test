@@ -1,4 +1,4 @@
-all :clean ./build/hai.O ./build/hai
+all :clean ./build/hai. ./build/hai
 ./build/hai.o:./source/hai.c
 	gcc -c -o ./build/hai.o ./source/hai.c
 ./build/hai:
