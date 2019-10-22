@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("change \n")
-i}
+	printf("change \n");
+}
