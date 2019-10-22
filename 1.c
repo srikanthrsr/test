@@ -3,5 +3,5 @@
 int main()
 {
 	printf("change \n")
-dd	l	
+d	l	
 }
