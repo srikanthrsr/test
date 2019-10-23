@@ -1,4 +1,4 @@
-all :./build/hai ./build/hai
+all :./build/hai   ./build/hai
 ./build/hai.o:./source/hai.c
 	gcc -c -o ./build/hai.o ./source/hai.c
 ./build/hai:
